@@ -1,4 +1,19 @@
+:root {
+  --gray1: #333333;
+}
+
 .container {
   width: 600px;
   margin: 40px auto;
+}
+
+.paragraph::first-letter {
+  font-size: 3.5em;
+  font-weight: bold;
+  color: var(--gray1);
+  display: inline-block;
+  margin-right: 4px;
+  line-height: 1;
+  position: relative;
+  top: 8px;
 }
