@@ -57,3 +57,21 @@ The difference between relative, absolute, fixed, and static positioning was a b
 ### 4. Were there other exercises that might have helped you learn this week’stopic a little better?
 
 The exercises were helpful and covered the key layout and positioning concepts well. Seeing how different positions interact with one another gave a solid understanding
+
+### Flexbox
+
+### 1. Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+I initially tried to complete the exercises on my own, but for some of the layouts, especially those involving flex-wrap, flex-direction: column, and wrap-reverse, I needed to refer to the videos for guidance. They helped me understand how small changes in flex properties can drastically change the layout.
+
+### 2. How helpful did you find the exercises in this section? Was there oneexercise that was particularly helpful?
+
+The exercises were useful and helped me understand how Flexbox works in real layouts. They made it easier to see how different properties affect item placement.
+
+### 3. Was there something that you wish had been explained better?
+
+The wrap-reverse part was a little confusing at first, but after trying it out in the exercises, I started to understand how it changes the item order.
+
+### 4. Were there other exercises that might have helped you learn this week’stopic a little better?
+
+The exercises were great and covered the topic well. A few more practice problems would make it even better for learning.
