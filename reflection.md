@@ -75,3 +75,21 @@ The wrap-reverse part was a little confusing at first, but after trying it out i
 ### 4. Were there other exercises that might have helped you learn this week’stopic a little better?
 
 The exercises were great and covered the topic well. A few more practice problems would make it even better for learning.
+
+### Grid
+
+### 1. Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+I tried them on my own first, but I referred to the videos for the responsive layout parts.
+
+### 2. How helpful did you find the exercises in this section? Was there oneexercise that was particularly helpful?
+
+The exercises were helpful, especially the one using grid-template-areas — it made understanding layout planning easier.
+
+### 3. Was there something that you wish had been explained better?
+
+The videos explained the topic well, and I didn’t face much confusion. Overall, the instructions were clear, and I felt comfortable understanding the material.
+
+### 4. Were there other exercises that might have helped you learn this week’stopic a little better?
+
+The exercises given were very useful and helped me understand how CSS Grid works. Doing them really improved my comfort with the different properties.
