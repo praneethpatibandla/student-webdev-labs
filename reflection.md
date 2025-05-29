@@ -93,3 +93,21 @@ The videos explained the topic well, and I didn’t face much confusion. Overall
 ### 4. Were there other exercises that might have helped you learn this week’stopic a little better?
 
 The exercises given were very useful and helped me understand how CSS Grid works. Doing them really improved my comfort with the different properties.
+
+### Bootstrap
+
+### 1. Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+Yes, I was able to complete the exercises on my own. I referred to the Bootstrap documentation occasionally to double-check class names and modal options.
+
+### 2. How helpful did you find the exercises in this section? Was there oneexercise that was particularly helpful?
+
+The exercises were really helpful in reinforcing how the Bootstrap grid system and components like modals work. The modal exercise was especially useful because it helped me understand how modals are structured and triggered using Bootstrap's built-in JavaScript.
+
+### 3. Was there something that you wish had been explained better?
+
+The instructions were generally clear, but a bit more guidance on how Bootstrap spacing and alignment work inside modals would have been appreciated. I was able to figure it out through some trial and error
+
+### 4. Were there other exercises that might have helped you learn this week’stopic a little better?
+
+I found the current exercises were quite effective in helping me understand how to use Bootstrap’s grid, cards, and modals. They provided a clear foundation, and I feel more confident applying these components in real projects.
