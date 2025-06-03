@@ -111,3 +111,29 @@ The instructions were generally clear, but a bit more guidance on how Bootstrap 
 ### 4. Were there other exercises that might have helped you learn this week’stopic a little better?
 
 I found the current exercises were quite effective in helping me understand how to use Bootstrap’s grid, cards, and modals. They provided a clear foundation, and I feel more confident applying these components in real projects.
+
+### 1. Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+### 2. How helpful did you find the exercises in this section? Was there oneexercise that was particularly helpful?
+
+### 3. Was there something that you wish had been explained better?
+
+### 4. Were there other exercises that might have helped you learn this week’stopic a little better?
+
+### Jquery
+
+### 1. Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+I was able to complete the exercises mostly on my own, but I used some examples and resources to guide me.
+
+### 2. How helpful did you find the exercises in this section? Was there oneexercise that was particularly helpful?
+
+The exercises were helpful. I found the API fetch exercise most useful because it showed how to use jQuery with real data.
+
+### 3. Was there something that you wish had been explained better?
+
+It would have helped to have a bit more explanation about jQuery and accessibility together.
+
+### 4. Were there other exercises that might have helped you learn this week’stopic a little better?
+
+The exercises were great and helped me understand jQuery better. They gave me a solid foundation.
