@@ -112,13 +112,23 @@ The instructions were generally clear, but a bit more guidance on how Bootstrap 
 
 I found the current exercises were quite effective in helping me understand how to use Bootstrap’s grid, cards, and modals. They provided a clear foundation, and I feel more confident applying these components in real projects.
 
+### Javascript
+
 ### 1. Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+Yes, I was able to complete the exercise on my own
 
 ### 2. How helpful did you find the exercises in this section? Was there oneexercise that was particularly helpful?
 
+The exercises were very helpful in understanding JavaScript concepts better. The functional programming exercise map, filter, reduce was especially useful and helped connect everything I’ve learned so far.
+
 ### 3. Was there something that you wish had been explained better?
 
+Most topics were explained clearly, but I still found reduce a little tricky at first.
+
 ### 4. Were there other exercises that might have helped you learn this week’stopic a little better?
+
+The exercises covered a good range and helped strengthen my understanding of different JavaScript concepts.
 
 ### Jquery
 
