@@ -74,7 +74,7 @@ The wrap-reverse part was a little confusing at first, but after trying it out i
 
 ### 4. Were there other exercises that might have helped you learn this week’stopic a little better?
 
-The exercises were great and covered the topic well. A few more practice problems would make it even better for learning.
+The exercises were great and covered the topic well.
 
 ### Grid
 
