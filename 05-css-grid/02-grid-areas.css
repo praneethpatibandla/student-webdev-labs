@@ -13,20 +13,19 @@
   grid-template-rows: repeat(8, 1fr);
   gap: 10px;
   grid-template-areas:
-    'header'
-    'article'
-    'article'
-    'section'
-    'section'
-    'section'
-    'aside'
-    'footer';
+    "header"
+    "article"
+    "article"
+    "section"
+    "section"
+    "section"
+    "aside"
+    "footer";
 }
-.header
-.article,
+.header .article,
 .aside,
 .section,
- .footer{
+.footer {
   border-radius: 10px;
 }
 
@@ -57,14 +56,14 @@
   grid-template-rows: repeat(8, 1fr);
   gap: 10px;
   grid-template-areas:
-    'header'
-    'article'
-    'article'
-    'section'
-    'section'
-    'section'
-    'aside'
-    'footer';
+    "header"
+    "article"
+    "article"
+    "section"
+    "section"
+    "section"
+    "aside"
+    "footer";
 }
 
 @media (min-width: 576px) and (max-width: 760px) {
@@ -95,14 +94,16 @@
       "section  section   section"
       "footer   footer    footer";
   }
+}
 
-  .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    padding: 0;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    border: 0;
-  }
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
